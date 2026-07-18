@@ -199,3 +199,5 @@ pip install -r requirements.txt
 Выпускница СПбГЭУ, профиль «Математическое моделирование и анализ данных в экономике».
 
 Направления интересов: Data Science, прикладной искусственный интеллект, математическая оптимизация и анализ данных.
+
+С полным текстом работы можно ознакомиться по ссылке: https://docs.google.com/document/d/1-FJLFkmwnVuVJLdcQUiYZoQv-BoZPA-C/edit?usp=sharing&ouid=116334968829666772765&rtpof=true&sd=true
