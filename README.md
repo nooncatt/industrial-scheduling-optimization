@@ -1,5 +1,3 @@
-# industrial-scheduling-optimization
-MILP and CP-SAT models for scheduling engineering works under resource, seasonal, calendar, and cost constraints
 # Industrial Scheduling Optimization
 
 Проект по оптимальному распределению инженерно-технических работ между подразделениями с учетом ресурсных, сезонных, календарных и стоимостных ограничений.
